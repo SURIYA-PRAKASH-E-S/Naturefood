@@ -1,0 +1,55 @@
+.payment-container {
+    text-align: center;
+    margin: 50px auto;
+    padding: 20px;
+    max-width: 400px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .order-amount {
+    font-size: 18px;
+    margin: 15px 0;
+    color: #555;
+  }
+  
+  .processing {
+    font-size: 18px;
+    color: orange;
+    font-weight: bold;
+  }
+  
+  .success {
+    font-size: 18px;
+    color: green;
+    font-weight: bold;
+  }
+  
+  .button_pay {
+    background-color: #158993;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s ease;
+  }
+  
+  .button_pay:disabled {
+    background-color: #aaa;
+    cursor: not-allowed;
+  }
+  
+  .button_pay:hover {
+    background-color: #136d6d;
+  }
+  
