@@ -21,6 +21,13 @@ This is a modern Food Delivery App built with React, Redux, TailwindCSS, and Rea
 📌 Future Enhancements
 #
 🔹 User Authentication (Login/Signup)
+
 🔹 Order Tracking System
+
 🔹 Push Notifications for Order Updates
+
 🔹 AI-Powered Food Recommendations
+
+#
+Developed By @suriyaprakashes@gmail.com
+#
