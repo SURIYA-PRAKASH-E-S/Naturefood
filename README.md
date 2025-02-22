@@ -29,5 +29,5 @@ This is a modern Food Delivery App built with React, Redux, TailwindCSS, and Rea
 🔹 AI-Powered Food Recommendations
 
 #
-Developed By @suriyaprakashes@gmail.com
+Developed By suriyaprakashes@gmail.com
 #
