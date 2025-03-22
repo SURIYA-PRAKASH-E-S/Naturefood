@@ -1,8 +1,8 @@
 #
-🍔 Nature Food 
+🍔 Nature Food 🍽️
 #
 📌 Project Overview
-This is a modern Food Delivery App built with React, Redux, TailwindCSS, and React Router. Users can browse food items, add them to the cart, place orders, and complete payments. The cart updates dynamically, and once an order is placed, it is stored while the cart is cleared.
+This is a modern Food Ordering Website built with React, Redux, TailwindCSS, and React Router. Users can browse food items, add them to the cart, place orders, and complete payments. The cart updates dynamically, and once an order is placed, it is stored while the cart is cleared.
 #
 🚀 Features
 #
